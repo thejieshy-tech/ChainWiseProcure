@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/ReconciliationListPage",
+    "pages/ReconciliationDetailPage",
+    "pages/RiskCenterPage",
+    "pages/RiskDetailPage",
+    "pages/AiAssistantPage",
+    "pages/MyPage"
+  ]
+}

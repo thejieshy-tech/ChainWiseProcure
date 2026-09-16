@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "链智采采购对账与供应链风险元服务"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "链智采元服务入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "链智采元服务"
+    }
+  ]
+}
